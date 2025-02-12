@@ -1,1 +1,1 @@
-print("UrchDev fast api works")
+print("UrchDev")
